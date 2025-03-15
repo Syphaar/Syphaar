@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I specialize in building scalable, high-performance UIs that drive engagement and business growth. With a strong focus on clean code, accessibility, and responsiveness, I develop solutions that are visually appealing and well-structured. My goal is to connect design and development, creating smooth user experiences and fast performance on all devices.
+I specialize in building scalable, high-performance UIs that drive engagement and business growth. With a strong focus on clean code, accessibility, and responsiveness, I develop solutions that are visually appealing and well-structured. My goal is to connect designs and development, creating smooth user experiences and fast performance on all devices.
 
 * 🌍  I'm based in Akwa Ibom, Nigeria
 * 🖥️  See my portfolio at [My website](http://sifonemmanuel.vercel.app)
 * ✉️  You can contact me at [sifonemmanuel123@gmail.com](mailto:sifonemmanuel123@gmail.com)
 * 🧠  I'm learning Typescript and Next.js
-* 🤝  I'm open to collaborating on I work with designers to bring UI ideas to life, product teams to enhance user experience, QA engineers to ensure performance, and open-source communities to contribute and grow.
+* 🤝  I'm open to collaborating on projects with designers to bring UI ideas to life, product teams to enhance user experience, quality assurance engineers to ensure performance, and open-source communities to contribute and grow.
 * ⚡  When I'm not coding, you’ll find me listening to music, watching a movie, or enjoying a good meal.
 
 ### Skills
